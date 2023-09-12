@@ -1,0 +1,14 @@
+.active {
+    color: rgb(42, 165, 140);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: aliceblue;
+    text-decoration: none;
+}
