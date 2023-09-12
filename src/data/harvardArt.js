@@ -1,4 +1,4 @@
-const harvardArt = {
+export const harvardArt = {
  "info": {
   "totalrecordsperquery": 10,
   "totalrecords": 64,
